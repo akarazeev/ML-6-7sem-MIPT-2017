@@ -2,7 +2,8 @@
 
 ### Seminars:
 
-- 07 Mar - [SklearnDecisionTreeEnsembles](SklearnDecisionTreeEnsembles.ipynb)
+- 07 Mar - [SklearnDecisionTreeEnsembles](seminars/SklearnDecisionTreeEnsembles.ipynb)
+- 21 Mar - [Titanic](seminars/Titanic/Titanic.ipynb)
 
 ### Homework:
 
