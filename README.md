@@ -5,7 +5,8 @@
 - 07 Mar - [SklearnDecisionTreeEnsembles](seminars/SklearnDecisionTreeEnsembles.ipynb)
 - 21 Mar - [Titanic](seminars/Titanic/Titanic.ipynb)
 - 28 Mar - [Texts](seminars/Texts/28-03-2017-Texts.ipynb), [Texts_Practice](seminars/Texts/28-03-2017-Texts-Practice.ipynb)
-- 11 Apr - [DNN](seminars/dnn-sem1/ml-mipt-2017-dnn-sem1.ipynb)
+- 11 Apr - [DNN1](seminars/dnn-sem1/ml-mipt-2017-dnn-sem1.ipynb)
+- 18 Apr - [DNN2](seminars/dnn-sem2/my_first_nn_lsagne.ipynb)
 
 ### Homework:
 
