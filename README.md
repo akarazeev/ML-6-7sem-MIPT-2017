@@ -17,3 +17,4 @@
 
 ##### Neural Networks
 - [Homework 5](hw5/) - deadline is 18 Apr
+- [Homework 6](hw6/cifar.ipynb) - deadline is 25 Apr
