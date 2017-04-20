@@ -4,3 +4,4 @@
 **/*.texpadtmp/
 **/*.gz
 **/__pycache__/
+ignore/
