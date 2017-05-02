@@ -8,6 +8,7 @@
 - 11 Apr - [DNN1](seminars/dnn-sem1/ml-mipt-2017-dnn-sem1.ipynb)
 - 18 Apr - [DNN2](seminars/dnn-sem2/my_first_nn_lsagne.ipynb)
 - 25 Apr - [DNN3](seminars/dnn-sem3/sem3-task.ipynb)
+- 02 May - [Dimensionality reduction](seminars/dim-reduction/seminar13_v1.ipynb)
 
 ### Homework:
 
