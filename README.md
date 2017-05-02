@@ -21,3 +21,6 @@
 - [Homework 5](hw5/) - deadline is 18 Apr
 - [Homework 6](hw6/cifar.ipynb) - deadline is 27 Apr
 - [Homework 7](hw7/captioning.ipynb) - deadline is 02 May
+
+##### Dimensionality reduction
+- [Homework 8](hw8/task8.ipynb) - deadline is 20 May
