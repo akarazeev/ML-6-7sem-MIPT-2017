@@ -16,4 +16,4 @@
 
 #### Recommendation Systems
 - Homework 9 - deadline is 16 Dec
-- Homework 10 - deadline is 16 Dec
+- [Homework 10](hw10/hw10.ipynb) - deadline is 16 Dec
