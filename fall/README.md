@@ -6,8 +6,8 @@
 - Homework 3 - deadline is 11 Oct
 
 #### Reinforcement Learning
-- Homework 4 - deadline is 24 Oct
-- Homework 5 - deadline is 04 Nov
+- [Homework 4](hw4/hw4.ipynb) - deadline is 24 Oct
+- [Homework 5](hw5/) - deadline is 04 Nov
 - Homework 6 - deadline is 15 Nov
 
 #### Information Retrieval
